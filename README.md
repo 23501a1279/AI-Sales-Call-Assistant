@@ -1,7 +1,6 @@
-🎧 AI Real time Sales Call :
+🎧Real time Sales Call AI
 
 AI-powered Sales Call Assistant that transcribes customer & salesperson audio, performs speaker diarization, intent detection, sentiment analysis, entity extraction, and gives real-time AI sales suggestions like:
-
 Next questions to ask
 Objection handling
 Product recommendations
@@ -9,6 +8,7 @@ Auto-replies
 Built using Streamlit, NLP to assist sales agents with real-time AI-driven conversation intelligence.
 
 🚀 Features
+
 🎙️ Audio Upload (WAV / MP3)
 🎤 Live Browser Audio Recording
 🧠 Speaker Diarization (Customer vs Salesperson)
@@ -21,14 +21,15 @@ Product Recommendation
 Auto Reply
 📄 Downloadable Call Summary Report
 🖥️ Clean, App-like Frontend UI
+
 🧠 Tech Stack
+
 Python
 Streamlit
 NLP (Rule + LLM based)
 Speech Recognition
 Speaker Diarization
 Whisper / Vosk (STT)
-
 
 ## 🧪 Example Workflow
 
@@ -44,15 +45,11 @@ Whisper / Vosk (STT)
 📌 Use Cases
 
 Sales call analysis
-
 Customer support automation
-
 Call center training
-
 AI sales coaching
 
 📜 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
-
