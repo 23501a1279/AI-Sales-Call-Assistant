@@ -1,4 +1,5 @@
-🎧Real time Sales Call AI
+🎧 AI Real time Sales Call :
+
 AI-powered Sales Call Assistant that transcribes customer & salesperson audio, performs speaker diarization, intent detection, sentiment analysis, entity extraction, and gives real-time AI sales suggestions like:
 
 Next questions to ask
