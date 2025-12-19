@@ -9,12 +9,13 @@ Built using Streamlit, NLP to assist sales agents with real-time AI-driven conve
 
 🚀 Features
 
-🎙️ Audio Upload (WAV / MP3)
-🎤 Live Browser Audio Recording
-🧠 Speaker Diarization (Customer vs Salesperson)
-📝 Speech-to-Text (STT)
-📊 Intent, Sentiment & Entity Extraction
-🤖 AI Suggestions:
+Audio Upload (WAV / MP3)
+Live Browser Audio Recording
+Speaker Diarization (Customer vs Salesperson)
+Speech-to-Text (STT)
+Intent, Sentiment & Entity Extraction
+
+🤖AI Suggestions:
 Next Question (3 options)
 Objection Handling
 Product Recommendation
