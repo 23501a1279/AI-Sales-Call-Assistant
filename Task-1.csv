@@ -1,0 +1,31 @@
+File Name,Speaker,Text,Sentiment,Emotion
+Convo01,Salesperson(Adam)& Customer(Rachel),Customer inquires about a mid-range sedan and the Falcon S2 is introduced,Positive,Interest
+Convo02,Salesperson(Adam)& Customer(Rachel),Discussion about car features and mileage details,Positive,Curiosity
+Convo03,Salesperson(Adam)& Customer(Rachel),Customer asks about transmission options and is offered a test drive,Positive,Excitement
+Convo04,Salesperson(Adam)& Customer(Rachel),Test drive is scheduled for the next day,Positive,Anticipation
+Convo05,Salesperson(Adam)& Customer(Rachel),Customer shares feedback after test drive and discusses driving experience,Positive,Satisfaction
+Convo06,Salesperson(Adam)& Customer(Rachel),Pricing and finance options are introduced,Neutral,Thoughtfulnes
+Convo07,Salesperson(Adam)& Customer(Rachel),Customer evaluates EMI and budget possibilities,Neutral,Thoughtfulnes
+Convo08,Salesperson(Adam)& Customer(Rachel),Offers and discounts are discussed to make pricing attractive,Positive,Hopefulness
+Convo09,Salesperson(Adam)& Customer(Rachel),Final price negotiation takes place,Neutral,Focused
+Convo10,Salesperson(Adam)& Customer(Rachel),Booking confirmation and documentation are completed,Positive,Relief
+Convo11,Salesperson(Adam)& Customer(Rachel),Delivery date is fixed along with ceremony plans,Positive,Excitement
+Convo12,Salesperson(Adam)& Customer(Rachel),Pre-delivery checklist and confirmation before handover,Positive,Preparedness
+Convo13,Salesperson(Adam)& Customer(Rachel),Delivery ceremony and emotional key handover,Positive,Happiness
+Convo14,Salesperson(Adam)& Customer(Rachel),Feature demonstration and first drive explanation,Positive,Interest
+Convo15,Salesperson(Adam)& Customer(Rachel),Customer shares feedback after first drive experience,Positive,Satisfaction
+Convo16,Salesperson(Adam)& Customer(Rachel),Discussion about accessories and add-ons,Neutral,Curiosity
+Convo17,Salesperson(Adam)& Customer(Rachel),Insurance and protection plan options explained,Neutral,Reassurance
+Convo18,Salesperson(Adam)& Customer(Rachel),Finalizing insurance and paperwork for protection,Positive,Confidence
+Convo19,Salesperson(Adam)& Customer(Rachel),First service reminder and service benefits discussed,Positive,Responsibility
+Convo20,Salesperson(Adam)& Customer(Rachel),Follow-up on performance and driving comfort,Positive,Contentment
+Convo21,Salesperson(Adam)& Customer(Rachel),Customer shares long-distance trip experience,Positive,Joy
+Convo22,Salesperson(Adam)& Customer(Rachel),Customer refers a friend showing interest in the car,Positive,Pride
+Convo23,Salesperson(Adam)& Customer(Rachel),Friend shows interest and test drive is suggested,Positive,Encouragement
+Convo24,Salesperson(Adam)& Customer(Rachel),Feedback on friend's test drive experience,Positive,Support
+Convo25,Salesperson(Adam)& Customer(Rachel),Customer joins loyalty program and learns benefits,Positive,Appreciation
+Convo26,Salesperson(Adam)& Customer(Rachel),Discussion about future upgrade possibilities,Positive,Forward-thinking
+Convo27,Salesperson(Adam)& Customer(Rachel),Customer satisfaction checked and referral possibility mentioned,Positive,Gratitude
+Convo28,Salesperson(Adam)& Customer(Rachel),Referral friend visits showroom and test drive begins,Positive,Excitement
+Convo29,Salesperson(Adam)& Customer(Rachel),Loyalty benefits and upgrade options explained in detail,Positive,Optimism
+Convo30,Salesperson(Adam)& Customer(Rachel),Final thank you and long-term relationship closure,Positive,Warmth
